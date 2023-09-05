@@ -3,7 +3,7 @@ import './App.css';
 import MovieCard from './MovieCard';
 import SearchIcon from './search.svg';
 
-const API_URL = ' http://www.omdbapi.com/?i=tt3896198&apikey=636c6875';
+const API_URL = ' http://www.omdbapi.com/?i=tt3896198&apikey=key'; //replace the key with ur api key
 const movie1 = {
 "Poster" : "https://m.media-amazon.com/images/M/MV5BNjA2NmZhOGEtZTQ5OS00MDI0LTg4N2UtYTRmOTllM2I2NDlhXkEyXkFqcGdeQXVyNTU4OTE5Nzc@._V1_SX300.jpg",
 "Title" : "Spiderman the Verse",
